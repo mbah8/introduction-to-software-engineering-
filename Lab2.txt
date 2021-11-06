@@ -1,0 +1,54 @@
+1) Propose the most appropriate generic software process model that might be used as a basic for the development of the following systems. Give reasons for your answers.
+
+a) A complex free time system requirements can be relatively easy identified and a stable.
+
+       Answer:
+ Waterfall model would be the most appropriate.
+This is because ￼￼ The system Haswell define requirements and cannot be changed in the nearest future.
+
+b￼￼￼) A website for a local library. Requirements awake and unlikely to change in the future.
+
+     Answer:
+ Agile model will be the best. This is because the team we need to ensure that the structure of the work within does not hold them back from redefining that structure.
+
+c) And order processing system with a website for a local business. Requirements are vague but stable (i.e. unlikely to change in the near future)￼￼￼
+
+  Answer:
+A waterfall model will be suitable for this type of project. Because the requirement I will define unstable i.e. it is unlikely to change in the nearest future￼
+
+
+2) Describe this software process model that you have proposed in question one ear highlighting is strengths and weaknesses.
+
+   Answer:
+The software development process involves six digits which are feasibility study, analysis, design, Cody, Destin and maintenance stop. Stitch has various activities which are:
+
+Phase 1￼: feasibility study
+Here the problem is identified on the cost  to carry out the project is known
+
+Phase 2: Analysis 
+Here it  deals with all the requirement that would be needed in the project.
+
+Phase 3:Design
+The interface, graphics, etc.Are all done in this phase by a front end programmer .
+
+Phase 4:Coding
+Here the sets instructions are been written by a back end programmer.
+
+Phase 5:Testing
+when the system is being tested it is later on it is then implemented which can be accessed by the customer.
+
+Phase 6:maintainance 
+this is the last face which continues as long as this software is in place. In this phase the software is been checked regularly to correct errors and to remove bugs and also to add customer requested features.
+
+   Pros of waterfall Model
+
+* Timescales are kept
+* No financial surprises
+* Testing  is made easy
+* what do you plan is what you get
+
+        Cons of waterfall Model
+
+* Needs can be difficult to define
+* potential lack of flexibility
+
